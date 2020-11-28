@@ -2,7 +2,7 @@
 
 In this video tutorial  you will learn how to create a splash screen for your Android application.
 
-![Android Create a splash screen - Android tutorial](android-splash-scree.png)
+![Android Create a splash screen - Android tutorial](android-splash-screen.png)
 
 Link to my tutorial tutorial
 - [Blog tutorial](https://davideagostini.com/android-follow-the-best-practice-for-create-a-splash-screen) - Android: Follow the best practice for create a Splash Screen
